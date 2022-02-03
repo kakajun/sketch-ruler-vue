@@ -1,0 +1,14 @@
+*.js
+*.png
+*.eot
+*.ttf
+*.woff
+*.jsx
+*.ts
+*.tsx
+*.jpg
+/dist/
+/lib/
+/public/
+/node_modules/
+.output.js
