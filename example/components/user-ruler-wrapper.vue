@@ -10,7 +10,7 @@
       @on-preview-click="handleClick"
     >
       <!-- 预览页面 -->
-      <img class="imhhhh" :src="previewImg" />
+      <!-- <img class="imhhhh" :src="previewImg" /> -->
     </SketchRuleWrapper>
   </div>
 </template>
